@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.glassfish.gmbal:gmbal:4.0.0-b002">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/gmbal/gmbal/4.0.0-b002/gmbal-4.0.0-b002.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/gmbal/gmbal/4.0.0-b002/gmbal-4.0.0-b002-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/gmbal/gmbal/4.0.0-b002/gmbal-4.0.0-b002-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
